@@ -13,7 +13,5 @@ int main()
 {
 	char s[0];
 	my_fgets(s, 0, stdin);
-	//printf("[%s]", s);
-	//prinft("%d", s[0]);
 	return 0;
 }
